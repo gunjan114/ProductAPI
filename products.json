@@ -1,0 +1,42 @@
+[
+    {
+        "name" : "iphoneX",
+        "price" : "120000",
+        "company" : "apple"
+    },
+    {
+        "name" : "iphone12",
+        "price" : "120000",
+        "company" : "apple"
+    },
+    {
+        "name" : "samsung galexy 100",
+        "price" : "120000",
+        "company" : "samsung"
+    },
+    {
+        "name" : "realme 7",
+        "price" : "120000",
+        "company" : "realme"
+    },
+    {
+        "name" : "vivo V27",
+        "price" : "120000",
+        "company" : "vivo"
+    },
+    {
+        "name" : "dell max",
+        "price" : "120000",
+        "company" : "realme"
+    },
+    {
+        "name" : "s 20",
+        "price" : "404",
+        "company" : "realme"
+    },
+    {
+        "name" : "s 20",
+        "price" : "505",
+        "company" : "realme"
+    }
+]
